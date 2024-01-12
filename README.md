@@ -1,3 +1,3 @@
 # React + Vite
 
-vejo esse projeto rodando ---> https://compras-sepia.vercel.app/
+veja esse projeto rodando ---> https://compras-sepia.vercel.app/
